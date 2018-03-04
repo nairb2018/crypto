@@ -1,0 +1,27 @@
+{
+  "name": "bitcoin_trading_experiment",
+  "version": "1.0.0",
+  "description": "Testing a few bitcoin trading strategies",
+  "main": "simulated_run.js",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "lodash": "^4.17.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nairb2018/crypto.git"
+  },
+  "keywords": [
+    "bitcoin"
+  ],
+  "author": "Michael Wu, Alexander Hu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nairb2018/crypto/issues"
+  },
+  "homepage": "https://github.com/nairb2018/crypto#readme"
+}
